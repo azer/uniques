@@ -4,10 +4,10 @@
   "description": "Filter out duplicates in an array",
   "main": "index.js",
   "scripts": {
-    "test": "fox"
+    "test": "prova"
   },
   "devDependencies": {
-    "fox": "*"
+    "prova": "*"
   },
   "repository": {
     "url": "git@github.com:azer\/uniques.git",
